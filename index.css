@@ -32,3 +32,15 @@ body {
   height: 250px;
   border-radius: 50%;
 }
+
+.leftbox {
+  width: 250px;
+  float: left;
+  border-style: dashed;
+}
+
+.rightbox {
+  width: 250px;
+  float: right;
+  border-style: solid;
+}
